@@ -1,1 +1,4 @@
-person1
+aeroplane
+bicycle
+bird
+boat
